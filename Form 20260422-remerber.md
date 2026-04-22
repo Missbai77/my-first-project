@@ -1,5 +1,3 @@
-# my-first-project
-
 # 小白的 GitHub  
 
 # 我是谁
